@@ -4,7 +4,7 @@ This application was done to showcase and learn how to use some components and t
 
 The app seems to be simple, but "under-the-hood" it has some good stuff. I've used the concept of components and arrow functions as much as possible. Some CocoaPods had to be installed for the iOS Version and some Maven libraries for the Android Platform, too.
 
-###The Application:
+### The Application:
 The App's UI Consists of a Tabbed View, with three Tabs: General, Technology and Business, for each Category of News.
 
 The user choose a Category and the News for that will be fetched in a FlatList, with a Thumbnail. If the user wants to read a certain news, he just has to click on the arrow, on the right side of the row and a Modal View will be presented, showing the complete news.
@@ -25,7 +25,7 @@ If he wants to share this news, it's just to click on the symbol for that in the
 
 - Sharing News
 
-![share](Demos/share.gif)
+![share](Demo/share.gif)
 
 
 ### Directions:
